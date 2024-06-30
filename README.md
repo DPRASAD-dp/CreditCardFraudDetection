@@ -1,7 +1,7 @@
 # CreditCardFraudDetection
 Implemented a hybrid approach combining Logistic Regression and LSTM models for robust credit card fraud detection, achieving high accuracy and performance on imbalanced transaction datasets balanced using SMOTE and ENN.
 
-#Dataset
+# Dataset
 
 The dataset used in this project is creditcard.csv, which contains the following columns:
 
@@ -12,7 +12,7 @@ Class: Target variable (1 for fraudulent transactions, 0 for non-fraudulent tran
 
 Access the Dataset from this link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-#Notebook Structure
+# Notebook Structure
 
 Introduction:
 Overview of the problem and project objectives.
