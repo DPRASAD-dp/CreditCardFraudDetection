@@ -16,6 +16,7 @@ Access the Dataset from this link : https://www.kaggle.com/datasets/mlg-ulb/cred
 
 Introduction:
 Install Python library python using : pip install pandas
+
 Overview of the problem and project objectives.
 
 Data Exploration:
